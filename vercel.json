@@ -1,0 +1,8 @@
+{
+  "regions": ["icn1"],
+  "functions": {
+    "api/chat.js": {
+      "regions": ["icn1"]
+    }
+  }
+}
